@@ -31,7 +31,7 @@ PoC :
 
 Save it as m3u extention.
 
-![Alt text](https://raw.githubusercontent.com/kofa2002/NTLM-THEFT/master/Screenshot%20from%202019-05-04%2008-11-15.png?token=AB5ULGT5JPE2CEWY65V6ZWC44PVTW "NTLM Leaked")
+![Alt text](https://raw.githubusercontent.com/kofa2002/NTLM-THEFT/master/Screenshot%20from%202019-05-04%2008-11-15.png"NTLM Leaked")
 
 
 Author : Soufian El Hachmi

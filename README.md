@@ -17,7 +17,11 @@ target automatically leaks credentials in the form of NTLM hashes.
 # NOTE:  RCE can be achieved by chaining NTLM theft with smb signing disabled using ntlm relay .
 
 
+
+
 Tested on windows 7  “all player"
+
+
 
 PoC :
 

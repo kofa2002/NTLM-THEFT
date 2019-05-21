@@ -14,7 +14,7 @@ The attacker can then use this to inject malicious content into a “M3U” file
 
 target automatically leaks credentials in the form of NTLM hashes.
 
-# NOTE: AN RCE can be achieved by chaining NTLM theft with smb signing disabled using ntlm relay .
+# NOTE:  RCE can be achieved by chaining NTLM theft with smb signing disabled using ntlm relay .
 
 
 Tested on windows 7  “all player"

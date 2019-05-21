@@ -27,4 +27,4 @@ PoC :
 
 Save it as m3u extention.
 
-Author : "Soufian El Hachmi"  a security researcher From Morocco 
+Author : Soufian El Hachmi

